@@ -117,5 +117,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact
-For queries or collaborations, reach out at [anshikasaklani894@gmail..com](mailto:your.email@example.com).
+For queries or collaborations, reach out at [anshikasaklani894@gmail.com](mailto:your.email@example.com).
 
